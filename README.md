@@ -2,7 +2,13 @@
 
 > **An end-to-end, interactive and dynamically driven sales analytics dashboard built in Microsoft Excel.**
 
-![Super Store Sales Dashboard](assets/dashboard-preview.png)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/I-Mohammad-Hassan/End-to-End-Dynamic-Sales-Dashboard-in-Excel/99076ea1f4bd14aeb3c7996f7b585deaff95c3de/Screenshot%202026-08-24%20013059.png"
+    alt="End-to-End Dynamic Sales Dashboard in Excel"
+    width="800"
+  />
+</p>
 
 ## 🚀 Project Overview
 
